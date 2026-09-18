@@ -29,6 +29,7 @@ coverBackgroundUrl: /bullet_dodge_neo.webp
 <span style="color: white">Fighting the Ghost in the Machine</span>
 
 ---
+
 title: Reality
 class: text-right
 layout: image-right
@@ -43,7 +44,7 @@ image: /recordings/whatWeGot.GIF
 
 <div class="h-15"/>
 
-# What we really got!
+# What we really got
 
 <div class="h-15"/>
 <h3 class="text-left" v-click="2">✅ Bilateral Contacts</h3>
@@ -51,6 +52,7 @@ image: /recordings/whatWeGot.GIF
 <h3 class="text-left" v-click="3">✅ Full sagittal Model</h3>
 
 ---
+
 title: How we got here
 layout: end
 ---
@@ -58,6 +60,7 @@ layout: end
 # How did we end up here?
 
 ---
+
 title: Problems
 layout: center
 ---
@@ -73,7 +76,6 @@ layout: center
   Please submit a full bug report, with preprocessed source (by using -freport-bug).<br>
 </code>
 <b v-click="1" class="text-red absolute left-5em bottom-8.5em"><code>gcc</code> limits Size of Dynamics</b>
-
 
 <code v-click="2" class="absolute left-6em top-6em border-solid border-2 border-red">
   QP solver returned error status 3 (ACADOS_MINSTEP) in SQP iteration 2, QP iteration 23.
@@ -91,10 +93,12 @@ layout: center
 <b v-click="4" class="text-orange absolute left-3em bottom-13.5em">Pinocchios Contact Model</b>
 
 ---
+
 src: ./pages/credits.md
 ---
 <!-- CREDITS -->
 ---
+
 src: ./pages/appendix.md
 ---
 <!-- APPENDIX -->
